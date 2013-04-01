@@ -1,3 +1,5 @@
+from __future__ import unicode_literals 
+
 from itertools import chain, imap
 
 __all__ = ['fill_tree', 'annotate_tree_properties', ]
